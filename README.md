@@ -1,4 +1,9 @@
-1. Run on edge <br>
+Run on edge <br>
+
+**Clone repo**
+```shell
+git clone https://github.com/datdt198213/CAF-YOLO.git
+```
 **Install requirement**
 ```shell
 cd /CAF-YOLO/
